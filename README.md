@@ -1,4 +1,4 @@
-﻿# From Transaction Value to Relationship Signals: A Progressive Customer Differentiation Framework in Pet E-Commerce
+﻿# When Transaction Value and Relationship Signals Diverge: Progressive Customer Differentiation in Pet E-Commerce
 
 ## Description
 
